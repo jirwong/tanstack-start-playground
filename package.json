@@ -34,17 +34,17 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
     "@tanstack/devtools-vite": "latest",
-    "@tanstack/router-cli": "^1.132.0",
+    "@tanstack/router-cli": "^1.167.33",
     "@types/node": "^22.10.2",
     "@types/react": "^19.2.0",
-    "@types/react-dom": "^19.2.0",
-    "@vitejs/plugin-react": "^6.0.1",
-    "@vitest/coverage-v8": "^4.1.10",
-    "oxlint": "^1.78.0",
+    "@types/react-dom": "^19.2.5",
+    "@vitejs/plugin-react": "^6.1.1",
+    "@vitest/coverage-v8": "^4.1.11",
+    "oxlint": "^1.80.0",
     "prettier": "^3.9.6",
     "typescript": "^6.0.2",
-    "vite": "^8.0.0",
-    "vitest": "^4.1.10"
+    "vite": "^8.2.2",
+    "vitest": "^4.1.11"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
